@@ -21,15 +21,18 @@
     - など
 - JavaScript
     - ES2015
+    - CoffeeScript
 - JavaScript フレームワーク
     - React.js
     - Vue.js
     - Angular.js
     - などなど
 - UI/UX
+- Analytics
+  - Google Analytics
+  - など
 
 # ミドルウェア層
-
 
 - DB
     - MySQL
@@ -58,6 +61,9 @@
         - Cache
         - など
 - HTTP2
+- SSL
+  - 適用や証明書の種類、取得方法など
+  - Let's Encrypt
 - Ruby
     - メタプログラミング
     - など
@@ -84,6 +90,20 @@
         - houndci
         - coverall
         - など
+- 認可
+  - Devise
+  - Sorcery
+  - など
+- 認証
+  - CanCanCan
+  - Pundit
+  - など
+- API
+  - JSON API
+  - versioning
+  - documentation
+  - など
+- i18n
 
 # インフラ層
 
@@ -116,6 +136,8 @@
     - プロセス
     - スレッド
     - ソケット
+- テスト
+  - serverspec
 
 # 設計
 
@@ -138,6 +160,11 @@
     - Qiita::Team
     - esa.io
     - Confluence
+- Gem開発
+- performance tuning
+  - 計測
+  - 調査
+  - 改善
 
 # その他
 
