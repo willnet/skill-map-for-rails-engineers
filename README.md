@@ -90,11 +90,11 @@
         - houndci
         - coverall
         - など
-- 認可
+- 認証
   - Devise
   - Sorcery
   - など
-- 認証
+- 認可
   - CanCanCan
   - Pundit
   - など
