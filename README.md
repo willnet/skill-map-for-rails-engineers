@@ -236,11 +236,17 @@
 
 ### I18n
 
+- RailsでI18nを実装するときの作法について説明できる
+  - モデルのエラーメッセージの変更をどのようにするか
+- DBに入っているマスターデータをI18n化するときにどのように設計するか説明できる
+
 ### ActiveSupport
+
+- ActiveSupport が提供するメソッドをなるべく利用し、Railsっぽく処理を記述できる
 
 ### 設定
 
-production, development, test それぞれの環境の主な設定の違いについて説明できる
+- production, development, test それぞれの環境の主な設定の違いについて説明できる
 
 ### Rake
 
@@ -249,6 +255,12 @@ production, development, test それぞれの環境の主な設定の違いに�
 - rake タスクへの引数の渡し方がわかる
 
 ### ActionMailer    
+
+- ActionMailer を利用しメールを送信することができる
+- テキストメールとHTMLメールを使い分けられる
+- メールが送信されたことを確認するテストを書くことができる
+- 開発環境でメールを送信する機能を簡易的に試すことができる
+  - letter_opener, mailcatcher などを利用
 
 ### 運用
 
