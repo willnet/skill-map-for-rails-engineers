@@ -27,7 +27,7 @@
 
 - CSS 記法
     - BEM
-    - SMACC
+    - SMACSS
     - など
 - CSS 拡張言語
     - scss
